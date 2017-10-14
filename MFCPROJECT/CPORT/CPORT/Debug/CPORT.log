@@ -1,0 +1,25 @@
+﻿빌드 시작: 2017-07-28 오후 4:25:21
+     1>2 노드의 "D:\ConsolEx\MFCPROJECT\CPORT\CPORT\CPORT.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CPORT.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CPORTDlg.cpp
+         CPORTDlg.cpp
+     1>d:\consolex\mfcproject\cport\cport\cportdlg.cpp(112): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>d:\consolex\mfcproject\cport\cport\cportdlg.cpp(111): warning C4101: 'type' :참조되지 않은 지역 변수입니다.
+     1>d:\consolex\mfcproject\cport\cport\cportdlg.cpp(111): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+     1>d:\consolex\mfcproject\cport\cport\cportdlg.cpp(111): warning C4101: 'dataSize' :참조되지 않은 지역 변수입니다.
+     1>d:\consolex\mfcproject\cport\cport\cportdlg.cpp(110): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+     1>d:\consolex\mfcproject\cport\cport\cportdlg.cpp(109): warning C4101: 'hSerialCom' :참조되지 않은 지역 변수입니다.
+     1>d:\consolex\mfcproject\cport\cport\cportdlg.cpp(110): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\CPORT.res" CPORT.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ConsolEx\MFCPROJECT\CPORT\Debug\CPORT.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\ConsolEx\MFCPROJECT\CPORT\Debug\CPORT.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ConsolEx\MFCPROJECT\CPORT\Debug\CPORT.lib" /MACHINE:X86 Debug\CPORT.res
+         Debug\CPORT.obj
+         Debug\CPORTDlg.obj
+         Debug\stdafx.obj
+         CPORT.vcxproj -> D:\ConsolEx\MFCPROJECT\CPORT\Debug\CPORT.exe
+     1>"D:\ConsolEx\MFCPROJECT\CPORT\CPORT\CPORT.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.57
